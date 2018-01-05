@@ -1,6 +1,6 @@
 {
-  "name": "react-navigation-is-focused-hoc",
-  "version": "1.0.0",
+  "name": "react-navigation-is-focused-hoc-anarock",
+  "version": "1.0.1",
   "description": "Ready to use solution using HOC to expose props.isFocused for react-navigation. No Redux needed.",
   "main": "index.js",
   "scripts": {
